@@ -72,6 +72,7 @@ pub fn build_config(
                 "*.ts".into(),
                 "*.tsx".into(),
                 "*.lua".into(),
+                "*.md".into(),
             ]),
             exclude: None,
             include_in_tree: None,
